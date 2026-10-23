@@ -1,0 +1,7 @@
+# Generated output files
+result.txt
+out.txt
+
+# Compiled Java files
+*.class
+bin/
